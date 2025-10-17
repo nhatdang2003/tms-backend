@@ -1,0 +1,11 @@
+export enum STATUS {
+  ACTIVE = 'ACTIVE',
+  INACTIVE = 'INACTIVE',
+  BLOCKED = 'BLOCKED',
+}
+
+export enum ROLE {
+  ADMIN = 'ADMIN',
+  TECHNICIAN = 'TECHNICIAN',
+  SUPERVISOR = 'SUPERVISOR',
+}
